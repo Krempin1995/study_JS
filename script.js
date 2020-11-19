@@ -10,4 +10,4 @@ let mission;
 
 let period;
 
-console.log("Лопата");
+console.log("Вывести в консоль сообщение с любым текстом");
